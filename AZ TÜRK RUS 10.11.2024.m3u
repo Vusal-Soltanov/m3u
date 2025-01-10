@@ -1,0 +1,2785 @@
+#EXTM3U
+#EXTM3U url-tvg=http://epg.it999.ru/epg2.xml.gz
+#EXTINF:-1 tvg-logo="https://aligoshgar.github.io/LOGO/AligoshgarTVBoldWhite.png" group-title="🇦🇿 AZƏRBAYCAN",ALIGOSHGAR TV
+https://aligoshgar.efir.com.tr:3037/stream/play.m3u8
+#EXTINF:1 tvg-id="ATV.az" tvg-logo="https://acra.gov.az/storage/951/ATV-cinema---Copy.jpg" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",ATV CINEMA
+http://135.181.115.81:8000/play/a02f/index.m3u8?token=livetv
+#EXTINF:1 tvg-id="FTV" tvg-logo="https://i.hizliresim.com/7a9thqb.jpeg" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",FTV
+https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
+#EXTINF:1 tvg-id="LiveTV.Az" tvg-logo="https://play-lh.googleusercontent.com/WwcFsUtH_mDpP7AEt06jtWZ4aK2FpGDO5Loddc1USEyihQKlKFgr6I23X7kRjGUO8w" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",Live TV
+https://tv.mobyservice.ru/livetv/index.m3u8
+#EXTINF:1 tvg-id="Könül TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTKgRegsWhfQVWCLOifn7OeoNqwikFsP1yD4QB3IQ=s900-c-k-c0x00ffffff-no-rj" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",Könül TV
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:1 tvg-id="GunAz TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gunaz-tv.svg/2560px-Gunaz-tv.svg.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",GunAz TV
+http://88.99.66.6:8080/str.yodacdn.net/gunaztv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:1 tvg-id="Esma TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/03/esma-tv-izle-vipotv.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",Esma TV
+https://esmatv.interweb.com.tr:3928/stream/play.m3u8
+#EXTINF:1 tvg-id="SHOW PLUS TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/05/Show-Plus-TV-canli-izle-vipotv.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",SHOW PLUS TV
+http://str.yodacdn.net/showplus/index.m3u8
+#EXTINF:1 tvg-id="AYAZ TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/ayaz-tv-izle-vipotv.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",AYAZ TV
+https://janya-ayaztv.vgcdn.net/ptnr-ayaztv/title-Ayaz_TV/v1/vglive-sk-934820/ayaztv_2500k.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://i.hizliresim.com/gtd0v8m.jpg" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",Ulduz TV
+https://ulduztv.interweb.com.tr:3266/stream/play.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://i.hizliresim.com/aqen10h.jpg" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",ŞİRVAN TV
+https://sirvantv.efir.com.tr:3369/stream/play.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",DALĞA Sinema TV
+https://dalgatvcinema.efir.com.tr:3897/stream/play.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",DOĞRU TV
+https://dogrutv.efir.com.tr:3449/stream/play.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/umid-tv-canli-izle-vipotv-min.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",UMID TV
+https://umidtvaz.efir.com.tr:3559/stream/play.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/umid-tv-canli-izle-vipotv-min.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",UMID SHOW TV
+https://utvnewsaz.efir.com.tr:3948/stream/play.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",MEGA TV
+https://MegatvAz.efir.com.tr:3532/hybrid/play.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",MEGA MUSIC TV
+https://MegatvmusicAz.efir.com.tr:3883/hybrid/play.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",İsmayıllı TV
+https://ismayillitv.efir.com.tr:3281/stream/play.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",BEAT TV
+#EXTINF:1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",AzTV
+http://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:1 tvg-id="ATV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",Azad Azərbaycan HD
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
+#EXTINF:1 tvg-id="XezerTV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2024/05/xazar-izle-vipotv.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",Xəzər TV HD
+http://str.yodacdn.net/xazar/index.m3u8
+#EXTINF:1 tvg-id="itv.az" tvg-logo="https://itv.az/assets/images/itv-logo.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",İctimai TV HD
+http://str.yodacdn.net/ictimai/index.m3u8
+#EXTINF:1 tvg-id="ARB.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",ARB HD
+http://stream.tvcdn.net/azerbaycan/arb.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb-gunes-az-hd.png" tvg-name="ARB Günəş" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",ARB Günəş
+http://stream.tvcdn.net/azerbaycan/arb-gunes.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb24-hd-az.png" tvg-name="ARB 24 HD" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",ARB 24 HD
+http://str.yodacdn.net/arb24/index.m3u8
+#EXTINF:1 tvg-logo="https://static.g-cdn.app/streams/start-tv-az-hd.png" tvg-country="AZ" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",Kanal S
+http://stream.tvcdn.net/azerbaycan/start-tv.m3u8
+#EXTINF:1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/MuZm8N2.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",Space TV
+http://135.181.115.81:8000/play/a01k/index.m3u8?token=livetv
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/27890fa6-d544-401b-8372-05f5215b0dc4.png" tvg-name="Muz TV" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",Muz TV
+http://88.99.66.6:8080/str.yodacdn.net/mtvaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:1 tvg-id="Real TV" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",Real TV HD
+http://str.yodacdn.net/real/index.m3u8
+#EXTINF:1 tvg-id="Qafqaz TV" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/6/69/Qafqaz_TV_%282017-h.h.%29.png/800px-Qafqaz_TV_%282017-h.h.%29.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",Qafqaz TV
+http://88.99.66.6:8080/str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:1 tvg-id="Qəbələ TV" tvg-logo="https://big-radio.net/uploads/posts/2021-12/1639501731_qebele-radio-big-radio_org.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",Qəbələ TV
+https://qebeletv.ozelip.net:3918/stream/play.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/azstartv.default.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",AS TV
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/bakutv-vipotv.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",Baku TV
+https://rtmp.baku.tv/live/bakutv_720p.m3u8
+#EXTINF:1 tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/gt8Fhjj.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",MƏdƏniyyƏt TV-2
+http://135.181.115.81:8000/play/a01p/index.m3u8?token=livetv
+
+#EXTINF:1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/cbctv.default.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",CBC TV
+http://88.99.66.6:8080/str.yodacdn.net/cbc/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:1 radio="" tvg-id="" tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png" tvg-name="CBC Sports" tvg-shift="" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",CBC Sport
+http://mfe.cliptv.az:80/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
+#EXTINF:1 radio="" tvg-id="" tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png" tvg-name="CBC Sports" tvg-shift="" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",CBC Sport-4
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
+#EXTINF:1 tvg-id="APA TV" tvg-logo="https://news.unec.edu.az/images/APA_TV.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",APA TV
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0e0b12f3-022e-4871-b7d4-f11955e281e0.png" tvg-name="Səhiyyə TV" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",Səhiyyə TV
+http://185.32.44.154/sehiyye/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2021/03/el-tv-live-vipotv.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",EL TV
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:1 tvg-id="DunyaTV.az" tvg-logo="https://i.imgur.com/A3yaU4J.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",Dünya TV
+http://stream.tvcdn.net/azerbaycan/dunya-tv.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/internationaltelevision/images/9/9d/Alvin_Channel_-_logo.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",Alvin Channel
+http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:1 tvg-id="Naxçıvan TV" tvg-logo="https://ntv.az/assets/images/logo.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",Naxçıvan TV
+http://88.99.66.6:8080/str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536
+#EXTINF:1 tvg-id="Kanal 35" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/b6/Kanal_35_%28loqo%29.png/800px-Kanal_35_%28loqo%29.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",Kanal 35
+http://88.99.66.6:8080/str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:1 tvg-id="GEMAZ TV" tvg-logo="https://tvlogo.xyz/iran/gemaz.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",GEMAZ TV
+http://aflaxtv.xyz:8080/resplice/wdLIS4d9758INyuX/64976
+#EXTINF:1 tvg-id="VOSTOK TV" tvg-logo="https://vostok.tv/present/images/logo-black@2x.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",VOSTOK TV
+http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
+#EXTINF:1 tvg-id="TMB AZ TV" tvg-logo="http://assets.tvcdn.net/e6f5a04c-23bf-4d99-80c5-57bd6f9adee5.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",TMB AZ TV
+http://stream.tvcdn.net/azerbaycan/tmb-azerbaycan.m3u8
+#EXTINF:1 tvg-id="AGRO TV Azərbaycan" tvg-logo="https://www.agrotvazerbaijan.az/uploads/images/logo-7szXRi4-1.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",AGRO TV Azərbaycan
+https://yayin30.haber100.com/live/agrotv2/chunklist_w1691893424.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b76cbebd-8271-49fb-b968-e1a1f570462a.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",SƏHƏR TV
+https://hw2.jemtv.com/app/azeri/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d0b584bf-e130-4546-9042-7420b066b5d1.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",Vilayət TV
+https://hls.nl2.livekadeh.com/hls2/vilayet_high.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2a676b79-b093-4fc0-a539-dd53381ac8ad.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",MCJ TV Shopping
+http://stream.tvcdn.net/azerbaycan/mcj-tv-shop.m3u8
+#EXTINF:1 tvg-id="VIP Azerbaijan" tvg-logo="https://vipclubazerbaijan.com/uploads/viptv.jpg" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",VIP Azerbaijan
+http://stream.tvcdn.net/azerbaycan/vip-hd.m3u8
+#EXTINF:1 tvg-id="K@TV1" tvg-logo="https://www.katv1.az/images/tild3338-3366-4562-a266-373739346130__katv1-logo1000.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",K@TV 1
+http://135.181.115.81:8000/play/a02e/index.m3u8?token=livetv
+#EXTINF:1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/ce/K%C9%99p%C9%99z_TV_%28%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%29_%282019-%D0%BD.%D0%B2.%29.png/revision/latest?cb=20190304151708&path-prefix=ru" tvg-name="Kəpəz TV" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",Kəpəz TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:1 tvg-id="IdmanTV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" tvg-language="Azerbaijani" tvg-copyright="@aligoshgartv" group-title="🇦🇿 AZƏRBAYCAN",İdman TV
+https://str.yodacdn.net/idman/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:1,tvg-id="" tvg-language="Turkish" tvg-logo="https://i.imgur.com/e97edGu.png"group-title="SİNEMA"
+#EXTINF:-1 tvg-copyright="@aligoshgartv" group-title="SİNEMA",beIN Box Office 1 HD TR
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6744/index.m3u8
+#EXTINF:-1 tvg-copyright="@aligoshgartv" group-title="SİNEMA",BeIN Series 2
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6814/index.m3u8
+#EXTINF:-1 tvg-copyright="@aligoshgartv" group-title="SİNEMA",beIN Box office 1 HD TR
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6876/index.m3u8
+#EXTINF:-1 tvg-copyright="@aligoshgartv" group-title="SİNEMA",beIN Box Office 2 HD TR
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6745/index.m3u8
+#EXTINF:-1 tvg-copyright="@aligoshgartv" group-title="SİNEMA",beIN Box Office 3 HD TR
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6743/index.m3u8
+#EXTINF:-1 tvg-copyright="@aligoshgartv" group-title="SİNEMA",beIN Movies Family HD TR
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6878/index.m3u8
+#EXTINF:-1 tvg-copyright="@aligoshgartv" group-title="SİNEMA",beIN Movies Premiere 2 HD TR
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6879/index.m3u8
+
+#EXTINF:1,tvg-id="" tvg-language="Turkish" tvg-logo="https://i.imgur.com/e97edGu.png"group-title="Belgesel"
+#EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/1d/Love_Nature_TV.png" tvg-name="" tvg-copyright="@aligoshgartv" group-title="Belgesel",LOVE NATURE Türkçe
+http://aflaxtv.xyz:8080/resplice/wdLIS4d9758INyuX/837
+#EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/2560px-BBC_Earth_2023.svg.png" tvg-name="" tvg-copyright="@aligoshgartv" group-title="Belgesel",BBC EARTH Türkçe
+http://aflaxtv.xyz:8080/resplice/wdLIS4d9758INyuX/8238
+#EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/2560px-InvestigationDiscoveryLogo2020.svg.png" tvg-name="" tvg-copyright="@aligoshgartv" group-title="Belgesel",ID Türkçe
+http://aflaxtv.xyz:8080/resplice/wdLIS4d9758INyuX/8237
+#EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Da_Vinci_Primary_Logo_RGB_Red_AW_copy.svg/2560px-Da_Vinci_Primary_Logo_RGB_Red_AW_copy.svg.png" tvg-name="" tvg-copyright="@aligoshgartv" group-title="Belgesel",Da Vinci
+http://vavoo.to/play/2205765331/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" tvg-name="" tvg-copyright="@aligoshgartv" group-title="Belgesel",DISCOVERY CHANNEL
+http://vavoo.to/play/695705778/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Tarih-tv-logo-siyah-1080x1080.png" tvg-name="Tarih TV" tvg-copyright="@aligoshgartv" group-title="Belgesel",Tarih TV
+http://vavoo.to/play/3856957052/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Viasat_History-logo.svg/1426px-Viasat_History-logo.svg.png" tvg-name="" tvg-copyright="@aligoshgartv" group-title="Belgesel",VIASAT HISTORY
+http://vavoo.to/play/3480468962/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Viasat_History-logo.svg/1426px-Viasat_History-logo.svg.png" tvg-name="" tvg-copyright="@aligoshgartv" group-title="Belgesel",VIASAT HISTORY-3
+http://vavoo.to/play/4207487562/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Viasat_Explore.png" tvg-name="" tvg-copyright="@aligoshgartv" group-title="Belgesel",VIASAT EXPLORE
+http://vavoo.to/play/1785479914/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" tvg-name="" tvg-copyright="@aligoshgartv" group-title="Belgesel",National Geographic
+http://185.32.44.154/NationalGeographicHD/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" tvg-name="" tvg-copyright="@aligoshgartv" group-title="Belgesel",National Geographic-2
+http://vavoo.to/play/1514492628/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/800px-Nat_Geo_Wild_logo.png" tvg-name="" tvg-copyright="@aligoshgartv" group-title="Belgesel",National Geographic WILD
+http://vavoo.to/play/124345657/index.m3u8
+#EXTINF:1 tvg-id="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/512px-DMAX_BLACK.svg.png" tvg-name="DMAX" tvg-copyright="@aligoshgartv" group-title="Belgesel",DMAX
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:1 tvg-id="TLCTurkey.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" tvg-name="TLC Turkey" tvg-copyright="@aligoshgartv" group-title="Belgesel",TLC
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+
+#EXTINF:1,tvg-id="" tvg-language="Turkish" tvg-logo="https://i.imgur.com/e97edGu.png"group-title="Türkiye Kanalları"
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",ATV HD
+http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",ATV Avrupa
+http://stream.tvcdn.net/ulusal-yurt-disi/atv-avrupa.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Star TV
+http://stream.tvcdn.net/ulusal/star-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",EURO Star TV
+http://stream.tvcdn.net/ulusal-yurt-disi/euro-star.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal D
+http://stream.tvcdn.net/ulusal/kanal-d.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal D HD
+http://vip.sibfungold.net:8080/bagio19821/D7ZzZgQQrQSVHNSCDzadGrU3/1646
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Euro D
+http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",NOW TV
+http://stream.tvcdn.net/ulusal/now-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Show TV
+http://stream.tvcdn.net/ulusal/show-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Show Türk
+http://stream.tvcdn.net/ulusal-yurt-disi/show-turk.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Show Max
+http://stream.tvcdn.net/eglence/show-max.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Beyaz TV
+http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",360 TV
+http://stream.tvcdn.net/ulusal/360-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TV8
+http://stream.tvcdn.net/ulusal/tv8.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TV8 Int
+http://stream.tvcdn.net/ulusal-yurt-disi/tv8-int.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TV8.5
+http://stream.tvcdn.net/eglence/tv8-5.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TRT 1
+http://stream.tvcdn.net/ulusal/trt-1.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TRT 2
+http://stream.tvcdn.net/eglence/trt-2.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",a2
+http://stream.tvcdn.net/eglence/a2.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",teve2
+http://stream.tvcdn.net/eglence/teve2.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",DMAX
+http://stream.tvcdn.net/eglence/dmax.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TLC
+http://stream.tvcdn.net/eglence/tlc.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TV 4
+http://stream.tvcdn.net/eglence/tv-4.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Dizi Film TV
+http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Belgesel TV
+http://stream.tvcdn.net/eglence/belgesel-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TRT Belgesel
+http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TGRT Belgesel
+http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Yaban TV
+http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal 7
+http://stream.tvcdn.net/ulusal/kanal-7.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TRT Müzik
+http://stream.tvcdn.net/muzik/trt-muzik.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Dream Türk
+http://stream.tvcdn.net/muzik/dream-turk.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Powertürk TV
+http://stream.tvcdn.net/muzik/powerturk-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Power TV
+http://stream.tvcdn.net/muzik/power-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kral Pop TV
+http://stream.tvcdn.net/muzik/kral-pop-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Number One TV
+http://uzmansstvrs.xyz:80/live/0711Baris-Ablasi2021/0711son2022/206.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Number One Türk
+http://stream.tvcdn.net/muzik/number-one-turk.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Milyon TV
+http://stream.tvcdn.net/muzik/milyon-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Tatlıses TV
+http://stream.tvcdn.net/muzik/tatlises-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TMB
+http://stream.tvcdn.net/muzik/tmb.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Power Dance
+http://stream.tvcdn.net/muzik/power-dance.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Power Love
+http://stream.tvcdn.net/muzik/power-love.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Powertürk Akustik
+http://stream.tvcdn.net/muzik/powerturk-akustik.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Powertürk Slow
+http://stream.tvcdn.net/muzik/powerturk-slow.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Powertürk Taptaze
+http://stream.tvcdn.net/muzik/powerturk-taptaze.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Number 1 Aşk
+http://stream.tvcdn.net/muzik/number-1-ask.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Number 1 Damar
+http://stream.tvcdn.net/muzik/number-1-damar.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Number 1 Dance
+http://stream.tvcdn.net/muzik/number-1-dance.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Müzik TV
+http://stream.tvcdn.net/muzik/muzik-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TV 100
+http://stream.tvcdn.net/ulusal/tv-100.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TRT Türk
+http://stream.tvcdn.net/ulusal-yurt-disi/trt-turk.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TRT Avaz
+http://stream.tvcdn.net/ulusal-yurt-disi/trt-avaz.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TGRT EU
+http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal 7 Avrupa
+http://stream.tvcdn.net/ulusal-yurt-disi/kanal-7-avrupa.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TRT Haber
+http://stream.tvcdn.net/haber/trt-haber.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",A Haber
+http://stream.tvcdn.net/haber/a-haber.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",CNN Türk
+http://stream.tvcdn.net/haber/cnn-turk.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TGRT Haber
+http://stream.tvcdn.net/haber/tgrt-haber.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Habertürk
+http://stream.tvcdn.net/haber/haberturk.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Haber Global
+http://stream.tvcdn.net/haber/haber-global.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Ülke TV
+http://stream.tvcdn.net/haber/ulke-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Halk TV
+http://stream.tvcdn.net/haber/halk-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",NTV
+http://stream.tvcdn.net/haber/ntv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",24 TV
+http://stream.tvcdn.net/haber/24-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",KRT TV
+http://stream.tvcdn.net/haber/krt-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Akit TV
+http://stream.tvcdn.net/haber/akit-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Sözcü TV
+http://stream.tvcdn.net/haber/sozcu-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Tele 1
+http://stream.tvcdn.net/haber/tele-1.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TVNET
+http://stream.tvcdn.net/haber/tvnet.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Flash Haber
+http://stream.tvcdn.net/haber/flash-haber.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Ulusal Kanal
+http://stream.tvcdn.net/haber/ulusal-kanal.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Bengütürk TV
+http://stream.tvcdn.net/haber/benguturk-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Yol TV
+http://stream.tvcdn.net/haber/yol-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TBMM TV
+http://stream.tvcdn.net/haber/tbmm-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",DHA Canlı 1
+http://stream.tvcdn.net/haber/dha-canli-1.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",DHA Canlı 2
+http://stream.tvcdn.net/haber/dha-canli-2.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",A Para
+http://stream.tvcdn.net/ekonomi/a-para.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Bloomberg HT
+http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Ekotürk
+http://stream.tvcdn.net/ekonomi/ekoturk.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Finans Türk
+http://stream.tvcdn.net/ekonomi/finans-turk.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Expo Vizyon
+http://stream.tvcdn.net/ekonomi/expo-vizyon.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Business Channel Türk
+http://stream.tvcdn.net/ekonomi/business-channel-turk.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kültür Sanat TV
+http://stream.tvcdn.net/eglence/kultur-sanat-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Sağlıklı Günler TV
+http://stream.tvcdn.net/eglence/saglikli-gunler-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Tarih TV
+http://stream.tvcdn.net/eglence/tarih-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TRT Spor
+http://stream.tvcdn.net/spor/trt-spor.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TRT Spor Yıldız
+http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TRT 3 Spor
+http://stream.tvcdn.net/spor/trt-3-spor.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",A Spor
+http://stream.tvcdn.net/spor/a-spor.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Sports TV
+http://stream.tvcdn.net/spor/sports-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",beIN Sports Haber
+http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",FB TV
+http://stream.tvcdn.net/spor/fb-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",GS TV
+http://stream.tvcdn.net/spor/gs-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Tay TV
+http://stream.tvcdn.net/spor/tay-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",ByHorses TV
+http://stream.tvcdn.net/spor/byhorses-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Briç ve Satranç TV
+http://stream.tvcdn.net/spor/bric-ve-satranc-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Fit Yaşa TV
+http://stream.tvcdn.net/spor/fit-yasa-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Ziraat Türkiye Kupası TV
+http://stream.tvcdn.net/spor/ziraat-turkiye-kupasi-tv.m3u8
+
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Chill TV
+http://stream.tvcdn.net/muzik/chill-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Agro TV
+http://stream.tvcdn.net/belgesel/agro-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Çiftçi TV
+http://stream.tvcdn.net/belgesel/ciftci-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Tarım TV
+http://stream.tvcdn.net/belgesel/tarim-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Köy TV
+http://stream.tvcdn.net/belgesel/koy-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Toprak TV
+http://stream.tvcdn.net/belgesel/toprak-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TRT Çocuk
+http://stream.tvcdn.net/cocuk-egitim/trt-cocuk.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TRT EBA
+http://stream.tvcdn.net/cocuk-egitim/trt-eba.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TRT Diyanet Çocuk
+http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Minika Çocuk
+http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Minika Go
+http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Cartoon Network
+http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Bilsem Bizim TV
+http://stream.tvcdn.net/cocuk-egitim/bilsem-bizim-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Diyanet Çocuk
+http://stream.tvcdn.net/cocuk-egitim/diyanet-cocuk.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Çocuklara Özel TV
+http://stream.tvcdn.net/cocuk-egitim/cocuklara-ozel-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Çizgi Film TV
+http://stream.tvcdn.net/cocuk-egitim/cizgi-film-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Konuşan Tom ve Arkadaşları
+http://stream.tvcdn.net/cocuk-egitim/konusan-tom-ve-arkadaslari.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Mutlu Çocuk
+http://stream.tvcdn.net/cocuk-egitim/mutlu-cocuk.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Küçük Kamyon Leo
+http://stream.tvcdn.net/cocuk-egitim/kucuk-kamyon-leo.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kukuli
+http://stream.tvcdn.net/cocuk-egitim/kukuli.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kukuli Şarkılar
+http://stream.tvcdn.net/cocuk-egitim/kukuli-sarkilar.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Furkiş TV
+http://stream.tvcdn.net/cocuk-egitim/furkis-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Cumburlop TV
+http://stream.tvcdn.net/cocuk-egitim/cumburlop-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Zarok TV Kürtçe
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Diyanet TV
+http://stream.tvcdn.net/dini/diyanet-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Vav TV
+http://stream.tvcdn.net/dini/vav-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Semerkand TV
+http://stream.tvcdn.net/dini/semerkand-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Semerkand Way
+http://stream.tvcdn.net/dini/semerkand-way.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Dost TV
+http://stream.tvcdn.net/dini/dost-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Meltem TV
+http://stream.tvcdn.net/dini/meltem-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TV 5
+http://stream.tvcdn.net/dini/tv-5.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Diyar TV
+http://stream.tvcdn.net/dini/diyar-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",FM TV
+http://stream.tvcdn.net/dini/fm-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Gonca TV
+http://stream.tvcdn.net/dini/gonca-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",İLK TV
+http://stream.tvcdn.net/dini/ilk-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kudüs TV
+http://stream.tvcdn.net/dini/kudus-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",On4 TV
+http://stream.tvcdn.net/dini/on4-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Rehber TV
+http://stream.tvcdn.net/dini/rehber-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Mihrap TV
+http://stream.tvcdn.net/dini/mihrap-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Nur TV
+http://stream.tvcdn.net/dini/nur-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",MPL TV
+http://stream.tvcdn.net/dini/mpl-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Aile TV
+http://stream.tvcdn.net/dini/aile-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Aşk-ı Şerif TV
+http://stream.tvcdn.net/dini/ask-i-serif-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kuran-ı Kerim Dersleri
+http://stream.tvcdn.net/dini/kuran-i-kerim-dersleri.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",İslam TV
+http://stream.tvcdn.net/dini/islam-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",İlmihal TV
+http://stream.tvcdn.net/dini/ilmihal-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Asr-ı Saadet TV
+http://stream.tvcdn.net/dini/asr-i-saadet-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",İlahiler TV
+http://stream.tvcdn.net/dini/ilahiler-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Vaaz TV
+http://stream.tvcdn.net/dini/vaaz-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Hadi TV Türkçe
+http://stream.tvcdn.net/dini/hadi-tv-turkce.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Sat 7 Türk
+http://stream.tvcdn.net/dini/sat-7-turk.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal Hayat
+http://stream.tvcdn.net/dini/kanal-hayat.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",ABN Turkey
+http://stream.tvcdn.net/dini/abn-turkey.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Huzur Pınarı
+http://stream.tvcdn.net/dini/huzur-pinari.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Aşk-ı Neva
+http://stream.tvcdn.net/dini/ask-i-neva.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Mukabele TV
+http://stream.tvcdn.net/dini/mukabele-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Angara TV (Keçiören Belediyesi)
+http://stream.tvcdn.net/kurumlar/angara-tv-kecioren-belediyesi.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Beşiktaş Web TV
+http://stream.tvcdn.net/kurumlar/besiktas-web-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Çekmeköy Web TV
+http://stream.tvcdn.net/kurumlar/cekmekoy-web-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Esenler Şehir Ekranı
+http://stream.tvcdn.net/kurumlar/esenler-sehir-ekrani.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",İBB TV
+http://stream.tvcdn.net/kurumlar/ibb-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Sarıyer TV
+http://stream.tvcdn.net/kurumlar/sariyer-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Turhal Web TV
+http://stream.tvcdn.net/kurumlar/turhal-web-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Yozgat Belediyesi TV
+http://stream.tvcdn.net/kurumlar/yozgat-belediyesi-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TÜRSAB TV
+http://stream.tvcdn.net/kurumlar/tursab-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Üsküdar Üniversitesi TV 1
+http://stream.tvcdn.net/kurumlar/uskudar-universitesi-tv-1.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Üsküdar Üniversitesi TV 2
+http://stream.tvcdn.net/kurumlar/uskudar-universitesi-tv-2.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Milli Piyango TV
+http://stream.tvcdn.net/kurumlar/milli-piyango-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",İntisad TV
+http://stream.tvcdn.net/kurumlar/intisad-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",OKKU TV
+http://stream.tvcdn.net/kurumlar/okku-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",5 Ocak TV
+http://stream.tvcdn.net/yerel/5-ocak-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",A 52 TV
+http://stream.tvcdn.net/yerel/a-52-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",AGRT
+http://stream.tvcdn.net/yerel/agrt.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Aksu TV
+http://stream.tvcdn.net/yerel/aksu-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Alanya Posta TV
+http://stream.tvcdn.net/yerel/alanya-posta-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Alanya TV
+http://stream.tvcdn.net/yerel/alanya-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Altaş TV
+http://stream.tvcdn.net/yerel/altas-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Anadolu Dernek TV
+http://stream.tvcdn.net/yerel/anadolu-dernek-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Anadolu Dost TV
+http://stream.tvcdn.net/yerel/anadolu-dost-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Anadolu Net TV
+http://stream.tvcdn.net/yerel/anadolu-net-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Anadolu TV
+http://stream.tvcdn.net/yerel/anadolu-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Aras TV
+http://stream.tvcdn.net/yerel/aras-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",ART Amasya
+http://stream.tvcdn.net/yerel/art-amasya.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Bartın TV
+http://stream.tvcdn.net/yerel/bartin-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Bir TV
+http://stream.tvcdn.net/yerel/bir-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Bodrum Kent TV
+http://stream.tvcdn.net/yerel/bodrum-kent-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",BRTV Karabük
+http://stream.tvcdn.net/yerel/brtv-karabuk.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Çankırı TV
+http://stream.tvcdn.net/yerel/cankiri-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Çay TV
+http://stream.tvcdn.net/yerel/cay-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Dadaş TV
+http://stream.tvcdn.net/yerel/dadas-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Deha TV
+http://stream.tvcdn.net/yerel/deha-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Derin TV Karabük
+http://stream.tvcdn.net/yerel/derin-tv-karabuk.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Develi Çağrı TV
+http://stream.tvcdn.net/yerel/develi-cagri-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Dim TV
+http://stream.tvcdn.net/yerel/dim-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",DRT TV
+http://stream.tvcdn.net/yerel/drt-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Düzce TV
+http://stream.tvcdn.net/yerel/duzce-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Edessa TV
+http://stream.tvcdn.net/yerel/edessa-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Efes Dost TV
+http://stream.tvcdn.net/yerel/efes-dost-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Ege A Türk TV
+http://stream.tvcdn.net/yerel/ege-a-turk-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Ege Live TV
+http://stream.tvcdn.net/yerel/ege-live-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Ekol TV
+http://stream.tvcdn.net/yerel/ekol-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Elmas TV
+http://stream.tvcdn.net/yerel/elmas-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Erciş TV
+http://stream.tvcdn.net/yerel/ercis-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Erciyes TV
+http://stream.tvcdn.net/yerel/erciyes-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",ER TV Malatya
+http://stream.tvcdn.net/yerel/er-tv-malatya.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",ERT Erbaa
+http://stream.tvcdn.net/yerel/ert-erbaa.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Erzurum Web TV
+http://stream.tvcdn.net/yerel/erzurum-web-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",ES TV
+http://stream.tvcdn.net/yerel/es-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",ETV Kayseri
+http://stream.tvcdn.net/yerel/etv-kayseri.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",ETV Manisa
+http://stream.tvcdn.net/yerel/etv-manisa.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",FRT Fethiye
+http://stream.tvcdn.net/yerel/frt-fethiye.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Gökkuşağı TV
+http://stream.tvcdn.net/yerel/gokkusagi-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Görele TV
+http://stream.tvcdn.net/yerel/gorele-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",GRT Gaziantep
+http://stream.tvcdn.net/yerel/grt-gaziantep.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Güney TV
+http://stream.tvcdn.net/yerel/guney-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Haber 61 TV
+http://stream.tvcdn.net/yerel/haber-61-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",HRT Akdeniz
+http://stream.tvcdn.net/yerel/hrt-akdeniz.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Hunat TV
+http://stream.tvcdn.net/yerel/hunat-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",İçel TV
+http://stream.tvcdn.net/yerel/icel-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",İlke TV
+http://stream.tvcdn.net/yerel/ilke-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",İstanbul'un Geleceği TV
+http://stream.tvcdn.net/yerel/istanbul-un-gelecegi-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",İzmir Time 35
+http://stream.tvcdn.net/yerel/izmir-time-35.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",İzmir Türk TV
+http://stream.tvcdn.net/yerel/izmir-turk-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kadırga TV
+http://stream.tvcdn.net/yerel/kadirga-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal 3
+http://stream.tvcdn.net/yerel/kanal-3.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal 5
+http://stream.tvcdn.net/yerel/kanal-5.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal 15
+http://stream.tvcdn.net/yerel/kanal-15.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal 23
+http://stream.tvcdn.net/yerel/kanal-23.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal 26
+http://stream.tvcdn.net/yerel/kanal-26.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal 28
+http://stream.tvcdn.net/yerel/kanal-28.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal 32
+http://stream.tvcdn.net/yerel/kanal-32.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal 33
+http://stream.tvcdn.net/yerel/kanal-33.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal 53
+http://stream.tvcdn.net/yerel/kanal-53.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal 56
+http://stream.tvcdn.net/yerel/kanal-56.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal 58
+http://stream.tvcdn.net/yerel/kanal-58.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal 60
+http://stream.tvcdn.net/yerel/kanal-60.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal 68
+http://stream.tvcdn.net/yerel/kanal-68.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal Ada
+http://stream.tvcdn.net/yerel/kanal-ada.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal Avrupa
+http://stream.tvcdn.net/yerel/kanal-avrupa.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal Ege
+http://stream.tvcdn.net/yerel/kanal-ege.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal Fırat
+http://stream.tvcdn.net/yerel/kanal-firat.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal G
+http://stream.tvcdn.net/yerel/kanal-g.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal Ordu TV
+http://stream.tvcdn.net/yerel/kanal-ordu-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal S
+http://stream.tvcdn.net/yerel/kanal-s.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal Urfa
+http://stream.tvcdn.net/yerel/kanal-urfa.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal V
+http://stream.tvcdn.net/yerel/kanal-v.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal Z
+http://stream.tvcdn.net/yerel/kanal-z.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kardelen TV
+http://stream.tvcdn.net/yerel/kardelen-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kastamonu TV
+http://stream.tvcdn.net/yerel/kastamonu-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kay TV
+http://stream.tvcdn.net/yerel/kay-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kent Türk
+http://stream.tvcdn.net/yerel/kent-turk.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kocaeli TV
+http://stream.tvcdn.net/yerel/kocaeli-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kon TV
+http://stream.tvcdn.net/yerel/kon-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Konya Olay TV
+http://stream.tvcdn.net/yerel/konya-olay-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Konya Ün TV
+http://stream.tvcdn.net/yerel/konya-un-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Konya TV
+http://stream.tvcdn.net/yerel/konya-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Koza TV
+http://stream.tvcdn.net/yerel/koza-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Köroğlu TV
+http://stream.tvcdn.net/yerel/koroglu-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kuzey TV
+http://stream.tvcdn.net/yerel/kuzey-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Life TV Kayseri
+http://stream.tvcdn.net/yerel/life-tv-kayseri.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Line TV Bursa
+http://stream.tvcdn.net/yerel/line-tv-bursa.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Malatya Vuslat TV
+http://stream.tvcdn.net/yerel/malatya-vuslat-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Marmara TV
+http://stream.tvcdn.net/yerel/marmara-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Mavi Karadeniz
+http://stream.tvcdn.net/yerel/mavi-karadeniz.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Mercan TV
+http://stream.tvcdn.net/yerel/mercan-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Merkez TV Muğla
+http://stream.tvcdn.net/yerel/merkez-tv-mugla.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Metropol TV
+http://stream.tvcdn.net/yerel/metropol-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Muğla Türk TV
+http://stream.tvcdn.net/yerel/mugla-turk-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Nil RTV
+http://stream.tvcdn.net/yerel/nil-rtv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Nora TV
+http://stream.tvcdn.net/yerel/nora-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Ogün TV
+http://stream.tvcdn.net/yerel/ogun-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Olay Türk
+http://stream.tvcdn.net/yerel/olay-turk.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",On6
+http://stream.tvcdn.net/yerel/on6.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",On Medya
+http://stream.tvcdn.net/yerel/on-medya.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Pamukkale TV
+http://stream.tvcdn.net/yerel/pamukkale-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Pazarcık TV
+http://stream.tvcdn.net/yerel/pazarcik-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Rize Türk
+http://stream.tvcdn.net/yerel/rize-turk.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Rumeli TV
+http://stream.tvcdn.net/yerel/rumeli-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Safa TV
+http://stream.tvcdn.net/yerel/safa-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Serhat TV
+http://stream.tvcdn.net/yerel/serhat-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Sinop Yıldız TV
+http://stream.tvcdn.net/yerel/sinop-yildiz-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Siteler TV
+http://stream.tvcdn.net/yerel/siteler-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Sun RTV
+http://stream.tvcdn.net/yerel/sun-rtv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Süper Kanal
+http://stream.tvcdn.net/yerel/super-kanal.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Şile TV
+http://stream.tvcdn.net/yerel/sile-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Tek Rumeli TV
+http://stream.tvcdn.net/yerel/tek-rumeli-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Tivi6
+http://stream.tvcdn.net/yerel/tivi6.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Trakya Türk TV
+http://stream.tvcdn.net/yerel/trakya-turk-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TR Ses TV
+http://stream.tvcdn.net/yerel/tr-ses-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Ton TV Çanakkale
+http://stream.tvcdn.net/yerel/ton-tv-canakkale.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Tokat TV
+http://stream.tvcdn.net/yerel/tokat-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Tokat Web TV
+http://stream.tvcdn.net/yerel/tokat-web-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Turhal Süper TV
+http://stream.tvcdn.net/yerel/turhal-super-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Türk Haber
+http://stream.tvcdn.net/yerel/turk-haber.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TV 1 Kayseri
+http://stream.tvcdn.net/yerel/tv-1-kayseri.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TV 264
+http://stream.tvcdn.net/yerel/tv-264.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TV 38
+http://stream.tvcdn.net/yerel/tv-38.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TV 41
+http://stream.tvcdn.net/yerel/tv-41.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TV 42
+http://stream.tvcdn.net/yerel/tv-42.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TV 52
+http://stream.tvcdn.net/yerel/tv-52.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TV A
+http://stream.tvcdn.net/yerel/tv-a.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TV Kayseri
+http://stream.tvcdn.net/yerel/tv-kayseri.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Urfanatik TV
+http://stream.tvcdn.net/yerel/urfanatik-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Uzay Haber
+http://stream.tvcdn.net/yerel/uzay-haber.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Vangölü TV
+http://stream.tvcdn.net/yerel/vangolu-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",VTV Türk
+http://stream.tvcdn.net/yerel/vtv-turk.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",World Türk
+http://stream.tvcdn.net/yerel/world-turk.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Yarımada TV
+http://stream.tvcdn.net/yerel/yarimada-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",BRT 1
+http://stream.tvcdn.net/kibris/brt-1.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",BRT 2
+http://stream.tvcdn.net/kibris/brt-2.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",BRT 3
+http://stream.tvcdn.net/kibris/brt-3.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kıbrıs Ada TV
+http://stream.tvcdn.net/kibris/kibris-ada-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal Sim
+http://stream.tvcdn.net/kibris/kanal-sim.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kıbrıs Genç TV
+http://stream.tvcdn.net/kibris/kibris-genc-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kıbrıs Kanal T
+http://stream.tvcdn.net/kibris/kibris-kanal-t.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kıbrıs TV
+http://stream.tvcdn.net/kibris/kibris-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TV 2020
+http://stream.tvcdn.net/kibris/tv-2020.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Güneş TV
+http://stream.tvcdn.net/kibris/gunes-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Torba TV
+http://stream.tvcdn.net/kibris/torba-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Cennet Mahallesi
+http://stream.tvcdn.net/dizi-youtube/cennet-mahallesi.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Behzat Ç.
+http://stream.tvcdn.net/dizi-youtube/behzat-c.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kurtlar Vadisi
+http://stream.tvcdn.net/dizi-youtube/kurtlar-vadisi.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Güldür Güldür
+http://stream.tvcdn.net/dizi-youtube/guldur-guldur.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",ÇGHB
+http://stream.tvcdn.net/dizi-youtube/cghb.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Emret Komutanım
+http://stream.tvcdn.net/dizi-youtube/emret-komutanim.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kiralık Aşk
+http://stream.tvcdn.net/dizi-youtube/kiralik-ask.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kızılcık Şerbeti
+http://stream.tvcdn.net/dizi-youtube/kizilcik-serbeti.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Avlu
+http://stream.tvcdn.net/dizi-youtube/avlu.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Dila Hanım
+http://stream.tvcdn.net/dizi-youtube/dila-hanim.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kurt Seyit ve Şura
+http://stream.tvcdn.net/dizi-youtube/kurt-seyit-ve-sura.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Arıza
+http://stream.tvcdn.net/dizi-youtube/ariza.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Çilek Kokusu
+http://stream.tvcdn.net/dizi-youtube/cilek-kokusu.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Göç Zamanı
+http://stream.tvcdn.net/dizi-youtube/goc-zamani.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Hanım Köylü
+http://stream.tvcdn.net/dizi-youtube/hanim-koylu.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Hayat Bazen Tatlıdır
+http://stream.tvcdn.net/dizi-youtube/hayat-bazen-tatlidir.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Hz Yusuf
+http://stream.tvcdn.net/dizi-youtube/hz-yusuf.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Jet Sosyete
+http://stream.tvcdn.net/dizi-youtube/jet-sosyete.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kalbimin Sultanı
+http://stream.tvcdn.net/dizi-youtube/kalbimin-sultani.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kuzey Yıldızı: İlk Aşk
+http://stream.tvcdn.net/dizi-youtube/kuzey-yildizi-ilk-ask.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Sihirli Annem
+http://stream.tvcdn.net/dizi-youtube/sihirli-annem.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Yeni Gelin
+http://stream.tvcdn.net/dizi-youtube/yeni-gelin.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Akademik Bakış
+http://stream.tvcdn.net/diger/akademik-bakis.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Ajans Express
+http://stream.tvcdn.net/diger/ajans-express.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Birgün TV
+http://stream.tvcdn.net/diger/birgun-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Cadde TV
+http://stream.tvcdn.net/diger/cadde-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Can TV
+http://stream.tvcdn.net/diger/can-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",CLC Medya TV
+http://stream.tvcdn.net/diger/clc-medya-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Demre TV
+http://stream.tvcdn.net/diger/demre-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Düzgün TV
+http://stream.tvcdn.net/diger/duzgun-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Ekin Türk TV
+http://stream.tvcdn.net/diger/ekin-turk-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Euro 34 TV
+http://stream.tvcdn.net/diger/euro-34-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Fortuna TV
+http://stream.tvcdn.net/diger/fortuna-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Hedef TV
+http://stream.tvcdn.net/diger/hedef-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal B
+http://stream.tvcdn.net/diger/kanal-b.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kişisel Gelişim TV
+http://stream.tvcdn.net/diger/kisisel-gelisim-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Lebih TV
+http://stream.tvcdn.net/diger/lebih-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Lider Haber
+http://stream.tvcdn.net/diger/lider-haber.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Luys TV
+http://stream.tvcdn.net/diger/luys-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Moda Magazin TV
+http://stream.tvcdn.net/diger/moda-magazin-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",SDM TV
+http://stream.tvcdn.net/diger/sdm-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TV EM
+http://stream.tvcdn.net/diger/tv-em.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Türkiye Klinikleri
+http://stream.tvcdn.net/diger/turkiye-klinikleri.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Türkmeneli TV
+http://stream.tvcdn.net/diger/turkmeneli-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Uluslararası TV
+http://stream.tvcdn.net/diger/uluslararasi-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Üni TV
+http://stream.tvcdn.net/diger/uni-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Üniversite TV
+http://stream.tvcdn.net/diger/universite-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Woman TV
+http://stream.tvcdn.net/diger/woman-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",World Plus TV
+http://stream.tvcdn.net/diger/world-plus-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Yeni Açı TV
+http://stream.tvcdn.net/diger/yeni-aci-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Sıla TV
+http://stream.tvcdn.net/diger-muzik/sila-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Ezo TV
+http://stream.tvcdn.net/diger-muzik/ezo-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Arma TV
+http://stream.tvcdn.net/diger-muzik/arma-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Aviva
+http://stream.tvcdn.net/diger-muzik/aviva.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Yıldız En TV
+http://stream.tvcdn.net/diger-muzik/yildiz-en-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Finest TV
+http://stream.tvcdn.net/diger-muzik/finest-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Tempo TV
+http://stream.tvcdn.net/diger-muzik/tempo-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Slow Karadeniz TV
+http://stream.tvcdn.net/diger-muzik/slow-karadeniz-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Yansıma Müzik TV
+http://stream.tvcdn.net/diger-muzik/yansima-muzik-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Demirci TV
+http://stream.tvcdn.net/diger-muzik/demirci-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Fora Müzik
+http://stream.tvcdn.net/diger-muzik/fora-muzik.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Genç Kral TV
+http://stream.tvcdn.net/diger-muzik/genc-kral-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Mega TV İskenderun
+http://stream.tvcdn.net/diger-muzik/mega-tv-iskenderun.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Demo TV
+http://stream.tvcdn.net/diger-muzik/demo-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Seda TV
+http://stream.tvcdn.net/diger-muzik/seda-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Ceyhan TV
+http://stream.tvcdn.net/diger-muzik/ceyhan-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Yağmurlu TV
+http://stream.tvcdn.net/diger-muzik/yagmurlu-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kardeş TV
+http://stream.tvcdn.net/diger-muzik/kardes-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Bal TV
+http://stream.tvcdn.net/diger-muzik/bal-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Just Vogue TV
+http://stream.tvcdn.net/diger-muzik/just-vogue-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Nef TV
+http://stream.tvcdn.net/diger-muzik/nef-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Solaklı TV
+http://stream.tvcdn.net/diger-muzik/solakli-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Haber Caddesi TV
+http://stream.tvcdn.net/diger-muzik/haber-caddesi-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Pala TV
+http://stream.tvcdn.net/diger-muzik/pala-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Deniz Radyo TV
+http://stream.tvcdn.net/diger-muzik/deniz-radyo-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Karadeniz Akustik
+http://stream.tvcdn.net/diger-muzik/karadeniz-akustik.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",SuperTurk TV
+http://stream.tvcdn.net/diger-eglence/superturk-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",SuperTurk Max
+http://stream.tvcdn.net/diger-eglence/superturk-max.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Aktif TV
+http://stream.tvcdn.net/diger-eglence/aktif-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Aldosa TV
+http://stream.tvcdn.net/diger-eglence/aldosa-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Almanya TV
+http://stream.tvcdn.net/diger-eglence/almanya-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Cansuyu TV
+http://stream.tvcdn.net/diger-eglence/cansuyu-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Cine 1
+http://stream.tvcdn.net/diger-eglence/cine-1.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Cine5 TV
+http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Çağrı TV
+http://stream.tvcdn.net/diger-eglence/cagri-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Değer TV
+http://stream.tvcdn.net/diger-eglence/deger-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Deniz Postası TV
+http://stream.tvcdn.net/diger-eglence/deniz-postasi-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Doğanay TV
+http://stream.tvcdn.net/diger-eglence/doganay-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Film Atölyesi
+http://stream.tvcdn.net/diger-eglence/film-atolyesi.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Göpsen TV
+http://stream.tvcdn.net/diger-eglence/gopsen-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",İlkgün TV
+http://stream.tvcdn.net/diger-eglence/ilkgun-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",İsviçre TV
+http://stream.tvcdn.net/diger-eglence/isvicre-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kanal 19
+http://stream.tvcdn.net/diger-eglence/kanal-19.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kobim TV
+http://stream.tvcdn.net/diger-eglence/kobim-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Lugat TV
+http://stream.tvcdn.net/diger-eglence/lugat-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Malkoçoğlu (Murat Film)
+http://stream.tvcdn.net/diger-eglence/malkocoglu-murat-film.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Rehbermi TV
+http://stream.tvcdn.net/diger-eglence/rehbermi-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Sky Haber TV
+http://stream.tvcdn.net/diger-eglence/sky-haber-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Sudurağı TV
+http://stream.tvcdn.net/diger-eglence/suduragi-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Süper 7 TV
+http://stream.tvcdn.net/diger-eglence/super-7-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Şaban TV
+http://stream.tvcdn.net/diger-eglence/saban-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Şaban TV 2 (Arzu Film)
+http://stream.tvcdn.net/diger-eglence/saban-tv-2-arzu-film.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Şaban TV 3 (Gülşah Film)
+http://stream.tvcdn.net/diger-eglence/saban-tv-3-gulsah-film.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Şaban TV 4 (Gülşah Film 2)
+http://stream.tvcdn.net/diger-eglence/saban-tv-4-gulsah-film-2.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Tivi 191
+http://stream.tvcdn.net/diger-eglence/tivi-191.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Tivi Türk
+http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TV 70
+http://stream.tvcdn.net/diger-eglence/tv-70.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TV 90
+http://stream.tvcdn.net/diger-eglence/tv-90.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Viyana TV
+http://stream.tvcdn.net/diger-eglence/viyana-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",VRT TV
+http://stream.tvcdn.net/diger-eglence/vrt-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Yansıma Sinema TV
+http://stream.tvcdn.net/diger-eglence/yansima-sinema-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Yeşilçam TV 2
+http://stream.tvcdn.net/diger-eglence/yesilcam-tv-2.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Yeşilçam TV 3
+http://stream.tvcdn.net/diger-eglence/yesilcam-tv-3.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Zeki & Metin
+http://stream.tvcdn.net/diger-eglence/zeki-metin.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TRT 1
+https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",STAR TV
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",SHOW TV
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",SOZCU TV
+https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TV 8
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",EURO D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",ATV AVRUPA
+https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",SHOW TURK
+https://showturk.blutv.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",EUROSTAR
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",EUROSTAR
+https://bozztv.com/gin-trn10/gt-eurostar/playlist.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TV 8 INT
+https://bozztv.com/inim03/live1/tv8int/playlist.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TRT TURK
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TRT COCUK
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",KANAL 7
+https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",BEYAZ TV
+https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TEVE 2
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",A2
+http://50.7.218.122:8080/a2hd/index.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",360
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",WOMAN TV
+https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TGRT EU
+https://bozztv.com/inim03/live1/tgrteu/playlist.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TIVI 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",BIR TV
+https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",LIFE TV
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TRT SPOR
+https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",beIN SPORTS HABER
+https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/beinsportshaber.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TV 8.5
+http://50.7.218.122:8080/tv85/index.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",A SPOR
+https://bozztv.com/inim03/live1/aspor/playlist.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",SPORTS TV
+https://sportstv.blutv.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",GS TV HD
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TAY TV
+https://ythlsgo.onrender.com/channel/UCjkRA7KEdp7PDKDUs396XHg/live.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TRT BELGESEL
+http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",DMAX
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TLC
+https://tlcdvr.blutv.com/blutv_tlc_dvr2/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TGRT BELGESEL
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/chunklist_b600000.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",CNN TURK
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",NTV
+https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",A HABER
+https://ythlsgo.onrender.com/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",HALK TV
+https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",ULKE TV
+https://ulketv.blutv.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",HABER GLOBAL
+https://haberglobal.blutv.com/blutv_haberglobal2/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",BLOOMBERG HT
+https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",HABERTURK
+https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",24
+https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist_b896000.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",ULUSAL TV
+https://pull1-poc.blutv.com/live/Z9N2GCPN/Z9N2GCPN_720p.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TV 100
+https://tv100dvr.blutv.com/blutv_tv1002_dvr/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TELE 1
+https://tele1dvr.blutv.com/blutv_tele1_dvr2/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",KRT
+https://krtdvr.blutv.com/blutv_krt_live_dvr/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TVNET
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",EKOTURK
+https://ekoturk.blutv.com/blutv_ekoturk2/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",AKIT TV
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",BENGU TURK
+https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TGRT HABER HD
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TURK HABER
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",FLASH HABER
+https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",NR1
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",MILYON TV
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",KRAL POP
+http://dygvideo.dygdigital.com/live/hls/kralpop
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TATLISES TV
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",NR1 ASK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",NR1 DAMAR
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",NR1 DANCE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",NR1 FASHION ONE
+http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TRT MUZIK
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",DREAM TURK
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",POWER TURK
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5250000_sltur.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",POWER TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",POWER TURK TAPTAZE
+http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",POWER DANCE
+https://listen.powerapp.com.tr/dance/dance.smil/chunklist_b1028000_sltur.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",POWER LOVE
+https://listen.powerapp.com.tr/plove/love.smil/chunklist_b1028000_sltur.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",POWER TURK AKUSTIK
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunklist_b1028000_sltur.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",POWER TURK SLOW
+https://listen.powerapp.com.tr/pturkslow/slow.smil/chunklist_b1028000_sltur.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Tivibu Spor
+http://stream.tvcdn.net/spor/tivibu-spor.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Lalegül TV
+http://stream.tvcdn.net/dini/lalegul-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Ordu BB TV
+http://stream.tvcdn.net/kurumlar/ordu-bb-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",As TV
+http://stream.tvcdn.net/yerel/as-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Gurbet 24 TV
+http://stream.tvcdn.net/yerel/gurbet-24-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Öncü RTV
+http://stream.tvcdn.net/yerel/oncu-rtv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",TV 35
+http://stream.tvcdn.net/yerel/tv-35.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Urfa Haber TV
+http://stream.tvcdn.net/yerel/urfa-haber-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Kuzey Kıbrıs TV
+http://stream.tvcdn.net/kibris/kuzey-kibris-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",Eva TV
+http://stream.tvcdn.net/diger/eva-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",HP TV
+http://stream.tvcdn.net/diger/hp-tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",24 TV - YOUTUBE
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/24tv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",A HABER - YOUTUBE
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/ahaber.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",BEHZAT Ç. - YOUTUBE
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/behzatc.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",BEIN SPORTS HABER - YOUTUBE
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/beinsportshaber.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",BENGÜTÜRK - YOUTUBE
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/benguturk.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",BUSINESS CHANNEL TÜRK - YOUTUBE
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/businesschannelturk.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",BYHORSES TV - YOUTUBE
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/byhorsestv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",CNN TÜRK - YOUTUBE
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/cnnturk.m3u8
+
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",NTV - YOUTUBE
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/ntv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",NUR TV - YOUTUBE
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/nurtv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",SAFA TV - TWITCH
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/safatv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",SERHAT TV - TWITCH
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/serhattv.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",SHOW MAX - SHOMWAX.COM.TR
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/showmax.m3u8
+
+#EXTINF:-1,"group-title="Türkiye Kanalları",SHOW TÜRK - SHOWTURK.COM.TR
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/showturk.m3u8
+
+
+# * » Müzik « * #
+#EXTINF:-1 tvg-name="TRT Müzik" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/12382043.png" group-title="Müzik",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="Dream Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_DreamTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2c085866ac31da06187cd" group-title="Müzik",Dream Türk
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Power Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_PowerTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2c125866ac31da06187d6" group-title="Müzik",Power Türk
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Power TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_PowerTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2c155866ac331e0feb22b" group-title="Müzik",Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Power Dance" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_PowerDance" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_40.png" group-title="Müzik",Power Dance
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Power Love" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_PowerLove" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2559.png" group-title="Müzik",Power Love
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="PowerTürk Akustik" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_PowerTurkAkustik" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2542.png" group-title="Müzik",PowerTürk Akustik
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="PowerTürk Slow" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_PowerTurkSlow" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2577.png" group-title="Müzik",PowerTürk Slow
+https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="PowerTürk Taptaze" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_PowerTurkTaptaze" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2534.png" group-title="Müzik",PowerTürk Taptaze
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Milyon TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_MilyonTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60900db7866ac318488bc30f" group-title="Müzik",Milyon TV
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
+
+#EXTINF:-1 tvg-name="Kral Pop" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_KralPop" tvg-logo="https://canlitv.center/channels/kral-pop-tv.png" group-title="Müzik",Kral Pop
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NumberOne Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_NumberOneTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5e415bb8866ac31d980eb377" group-title="Müzik",NumberOne Türk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NumberOne TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_NumberOneTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5e415748866ac31d980eb317" group-title="Müzik",NumberOne TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NumberOne Aşk" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_NumberOneAsk" tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/10/ask-tv-web.jpg" group-title="Müzik",NumberOne Aşk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NumberOne Damar" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_NumberOneDamar" tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/07/N1_TR_Damar.png" group-title="Müzik",NumberOne Damar
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NumberOne Dance" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_NumberOneDance" tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2015/12/N1_Dance-1-768x768.png" group-title="Müzik",NumberOne Dance
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tatlıses TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_TatlisesTV" tvg-logo="https://canlitv.center/channels/tatlises-tv.png" group-title="Müzik",Tatlıses TV
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MTV Biggest Pop" tvg-language="English" tvg-country="USA" tvg-id="Muzik_MTVBiggestPop" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Müzik",MTV Biggest Pop
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509fb7809fd000949e39b/master.m3u8?advertisingId=&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel
+
+#EXTINF:-1 tvg-name="Vevo Pop" tvg-language="English" tvg-country="USA" tvg-id="Muzik_VevoPop" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Müzik",Vevo Pop
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel
+
+
+#EXTINF:1,tvg-id="" tvg-language="Russian" tvg-logo="https://i.imgur.com/e97edGu.png"group-title="Rus Kanalları"
+
+
+
+#EXTINF:-1,"group-title="Rus Kanalları",Телеканал 86 (Сургут) (1080p) [Not 24/7]
+https://sitv.ru/hls/s861024.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",First Music (Opt-1)
+http://rtmp.one.by:2300/
+
+#EXTINF:-1,"group-title="Rus Kanalları",First Music (Opt-2)
+http://rtmp.one.by:1300/
+
+#EXTINF:-1,"group-title="Rus Kanalları",НТМ (Народное телевидение Мордовии) (720p) [Not 24/7]
+
+
+#EXTINF:-1,"group-title="Rus Kanalları",TNT_EXCLUSIVТНТ Exclusive (Молдова)
+http://89.28.25.122/hls/tnt_md.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Тивиком HD (+5)
+http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Губерния (Самара)
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Щелковское ТВ
+http://stream0.tv41.ru/live.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",АРИС 24
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Kronehit HD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Шансон-ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Kurai TVRU | Kurai TVКурай
+https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",BST TV Bashkirskoe Sputnikovoe TVRU | BST TV Bashkirskoe Sputnikovoe TV
+https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Brodilo TVBrodilo.TVRU | Brodilo TV
+http://brodilo.tv/channel.php
+
+#EXTINF:-1,"group-title="Rus Kanalları",FTV Teens
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",RU | Tamir TVTamir TV
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Red Bull TVRed Bull TV HDRed Bull TV SD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Sochi Live HD
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",К16 (Саров) (406p) [Not 24/7]			
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Ветта 24 (Пермь)
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Городской телеканал (Ярославль)
+http://www.gtk.tv/hls/gtyar.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",ДИАЛОГИ О РЫБАЛКЕ
+http://strm.yandex.ru/kal/dialogi/dialogi0_169_480p.json/index-v1-a1.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Дагестан
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Евразия (Орск)
+http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Конный Мир
+http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",ЛДПР ТВ
+http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",МТВ (Волгоград)
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Надежда
+http://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Небеса ТВ7
+http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Ника ТВ
+http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Новое ТВ
+http://serv25.vintera.tv:8081/novoetv/nov_tv/chunks.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",РБК
+http://e6.online.video.rbc.ru/online2/rbctv_480p/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Радио Говорит Москва
+http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Ратник
+http://online-video.rbc.ru/online/rbctv.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",С1 (Сургут)
+https://sitv.ru/hls/stv1024.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Три Ангела
+http://hls.tv.3angels.ru/stream/HQ.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Эхо TV (Рязань)Эхо ТВ
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",радио Хит ТВ
+http://hithd.camsh.orsk.ru/hls/hit.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",БелРос (576p)
+https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Бокс ТВ
+http://stream01.vnet.am/BoksTv/mono.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Большая Азия
+http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",БСТ 24 (Братск)
+http://bst.bratsk.ru/hls/bst2/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",В Гостях у сказки (1080p) [Geo-blocked]
+https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Вести ФМ
+https://player.smotrim.ru/iframe/stream/live_id/52035
+
+#EXTINF:-1,"group-title="Rus Kanalları",Вместе РФ
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Волга (HD)
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Волгоград 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Время
+http://streaming.tv-teleport.ru/Vremya/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Глас (576p)
+http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Детский мир
+http://stream01.vnet.am/CartoonNetwork/mono.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Детское кино International
+https://autopilot.catcast.tv/content/38720/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Дождь (1080p)
+https://1527562093.rsc.cdn77.org/transcode/ngrp:ses_all/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Дом Кино
+https://stream01.vnet.am/DomKino/mono.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Дом Кино Премиум HD
+http://streaming.tv-teleport.ru/Dom_Kino_Premium_HD/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Домашний
+http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",like Gecko) Mobile/15E148"Дорама (480p)
+http://ott-cdn.ucom.am/s95/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Драйв
+https://woobl.ru/hls987/Drive.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Дума ТВ
+https://dumatv.iptv2022.com/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Енисей (1080p) [Not 24/7]
+https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Жар Птица (404p) [Geo-blocked]
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Живая Планета
+https://woobl.ru/hls987/Zhivaya_Planeta.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Живая природа
+https://woobl.ru/hls987/Zhivaya_priroda_hd.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",ЖИВИ HD
+https://woobl.ru/hls987/Jivi_hd.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",ЖИВИ!
+http://streaming.tv-teleport.ru/Zhivi/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",За!ТВ
+https://streaming.televizor-24-tochka.ru/live/25.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Загородная Жизнь
+http://camera.global-x.ru/ZagorodnayaJizn/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",like Gecko) Mobile/15E148"Загородный (480p)
+http://ott-cdn.ucom.am/s31/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Запад 24 (Калининград)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Звезда
+https://edge02.odtv.az/o1/tvzvezda/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Звезда Плюс
+http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Зоо ТВ
+http://streaming.tv-teleport.ru/Zoo_TV/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Известия
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Ингушетия ТВ
+https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Индия
+https://stream01.vnet.am/ZeeTV/mono.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",История
+http://streaming.tv-teleport.ru/Istoriya/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Кавказ 24 (Ставрополь)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Калейдоскоп ТВ
+https://cdn-01.bonus-tv.ru/Kaleidoskop_edge/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Карусель
+http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Карусель Int
+http://stream02.vnet.am/Karusel/mono.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",КВН ТВ
+https://woobl.ru/hls987/KVN.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Кино 1 International HD
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Кино ТВ
+https://woobl.ru/hls987/Kino_tv.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",КИНО-1 INTERNATIONAL
+https://autopilot.catcast.tv/content/38617/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Кинопоказ
+http://streaming.tv-teleport.ru/Kinopokaz/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Кинопремьера HD
+http://stream02.vnet.am/Kinopremera/mono.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Кнопка ТВ
+https://api.alpaca.t62a.com/hls/9116/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Красная линия
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",КРИК-ТВ (Екатеринбург)
+http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Крым 24
+https://streaming.televizor-24-tochka.ru/live/28.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",КТК
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Кухня ТВ HD
+http://stream01.vnet.am/KukhnyaTv/mono.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Лёва (1080p) [Geo-blocked]
+https://strm.yandex.ru/kal/leva/leva0.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Легендарный 24
+https://sevas.1tvcrimea.ru/legendarniy24.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Лен ТВ 24 (540p) [Geo-blocked]
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Луганск 24
+https://streaming.televizor-24-tochka.ru/live/29.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Ля-Минор
+http://camera.global-x.ru/Lya-Minor/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Магнат ТВ
+https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Мама
+https://edge02.odtv.az/o2/mamatv/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Матур ТВ (1080p)
+https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Ми-Україна (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCEduOt4TK8TtOaznB45TrhA.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Миллет (540p) [Not 24/7]
+https://live.trkmillet.ru/millet/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",МИР
+https://streaming.televizor-24-tochka.ru/live/22.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Мир 24 (1080p)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Мир +2 (540p) [Not 24/7]
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Мир +4 (540p) [Not 24/7]
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Мир +7 (540p)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Мир Белагорья (720p) [Geo-blocked]
+http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Мир сериала
+https://woobl.ru/hls987/Mir_seriala.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Москва 24
+https://player.smotrim.ru/iframe/stream/live_id/1661
+
+#EXTINF:-1,"group-title="Rus Kanalları",Моя Планета
+https://woobl.ru/hls987/Moya_planeta.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",МТРК (576p) [Not 24/7]
+https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Муз союз (576p)
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Муз ТВ
+http://stream01.vnet.am/MuzTv/mono.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Музыка 1 International
+https://kino-1.catcast.tv/content/37745/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Музыка 2 International
+https://kino-1.catcast.tv/content/37742/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Музыка Кино International
+https://kino-1.catcast.tv/content/37739/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Музыка Первого
+http://streaming.tv-teleport.ru/Muzika_Pervogo/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Мульт
+http://stream01.vnet.am/Mult/mono.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Мульт HD
+https://woobl.ru/hls987/Mult_hd.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Мультиландия (1080p) [Geo-blocked]
+https://strm.yandex.ru/kal/multilandia/multilandia0.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Мультимания ТВ
+http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Мультимузыка
+https://woobl.ru/hls987/Multimuzyka.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",МҮОНТ-1 HD (1080p)
+https://cdn3.skygo.mn/live/disk1/MNB/HLS-FTA/MNB.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Надия/Новый канал (576p) [Not 24/7]
+http://nadiya.home-net.com.ua/mob/mystream.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Нано ТВ HD
+http://s1.tv-nano.com/Nano_rec/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Настоящее Время (720p)
+http://81.94.196.204/tsstreamer/CurrentTime_HD.ts
+
+#EXTINF:-1,"group-title="Rus Kanalları",Наука 2.0
+http://stream01.vnet.am/Nauka/mono.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Наша Сибирь (1080p) [Geo-blocked]
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",НВК Саха (1080p) [Not 24/7]
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Неизвестная Россия
+http://cdn.ntv.ru/unknown_russia/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Нижний Новгород 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-hd/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Ника ТВ (576p) [Not 24/7]
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Ностальгия
+https://edge02.odtv.az/o3/nostalgiya/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",НТВ
+http://cdn.ntv.ru/ntv0/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",НТВ +1
+http://cdn.ntv.ru/ntv1/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",НТВ +2
+http://cdn.ntv.ru/ntv2/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",НТВ +4
+http://cdn.ntv.ru/ntv4/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",НТВ +7
+http://cdn.ntv.ru/ntv7/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",НТВ Мир
+http://stream02.vnet.am/HTB/mono.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",НТВ Право
+http://cdn.ntv.ru/th_pravo/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",НТВ Стиль
+http://cdn.ntv.ru/th_hit/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",НТВ Хит
+http://cdn.ntv.ru/th_style/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",НТВ-Беларусь
+http://82.209.197.187:8080/udp/239.0.100.6:1234
+
+#EXTINF:-1,"group-title="Rus Kanalları",НТК ТВ (1080p) [Not 24/7]
+https://stream.ntktv.ua/s/ntk/ntk.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",НТС (Севастополь) (1080p) [Not 24/7]
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Общественное Телевидение России
+http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",ОНТ (576p) [Not 24/7]
+https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Орбіта ТВ (360p) [Not 24/7]
+http://ftp.orbita.dn.ua/hls/orbita.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Осетия Ирыстон
+https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",ОСН
+http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",like Gecko) Mobile/15E148"Охотник и рыболов (480p)
+http://ott-cdn.ucom.am/s62/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Первый канал
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+
+#EXTINF:-1,"group-title="Rus Kanalları",Первый космический
+http://stream01.vnet.am/Evrika/mono.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Первый Музыкальный Канал HD (1080p)
+http://rtmp.one.by:1300
+
+#EXTINF:-1,"group-title="Rus Kanalları",Первый Музыкальный Канал Россия HD (1080p)
+http://rtmp.one.by:2300
+
+#EXTINF:-1,"group-title="Rus Kanalları",Первый Тульский (576p) [Not 24/7]
+http://5.164.24.83/tula/1tv_low/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Первый Ярославский
+https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Перец
+http://stream01.vnet.am/Perec/mono.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Пингвин
+https://sirius.greenhosting.ru/PingvinRu/video.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Плюс ТВ
+http://178.124.179.122:8088/PlusTV/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",like Gecko) Mobile/15E148"Победа (480p)
+http://ott-cdn.ucom.am/s47/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Полтавское ТВ
+http://cdn10.live-tv.od.ua:8081/hrpl/hrpl-abr/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",like Gecko) Mobile/15E148"Приключения (480p)
+http://ott-cdn.ucom.am/s99/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Прима (1080p)
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Просвещение (540p) [Geo-blocked]
+https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Пятница
+http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Пятница International
+https://stream01.vnet.am/Pyatnica/mono.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Радость моя
+https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Рен ТВ
+https://edge02.odtv.az/o2/rentv/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Рен ТВ International
+https://woobl.ru/hls987/Rentv_international.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",РЖД ТВ (360p) [Geo-blocked]
+http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Родное Кино
+https://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Родной канал (720p) [Not 24/7]
+https://n1.slavmir.tv/live/slavmir/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Россия 1
+http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Россия 24
+http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Россия К
+https://edge02.odtv.az/o1/rtrkultura/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",РТР Планета Азия
+https://player.smotrim.ru/iframe/stream/live_id/63254
+
+#EXTINF:-1,"group-title="Rus Kanalları",РТР Планета Евро
+https://player.smotrim.ru/iframe/stream/live_id/4941
+
+#EXTINF:-1,"group-title="Rus Kanalları",РТР Планета СНГ
+https://player.smotrim.ru/iframe/stream/live_id/63253
+
+#EXTINF:-1,"group-title="Rus Kanalları",РТР Планета США
+https://player.smotrim.ru/iframe/stream/live_id/63250
+
+#EXTINF:-1,"group-title="Rus Kanalları",Русский Бестселлер
+http://streaming.tv-teleport.ru/Russkiy_Bestseller/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Русский Иллюзион
+https://edge02.odtv.az/o2/ruilluzion/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Русский роман
+https://woobl.ru/hls987/Russkiy_roman.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Русский Север (Вологда) (1080p)
+http://live.rusevertv.ru/streams.rs.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",like Gecko) Mobile/15E148"Рыжий (480p)
+http://ott-cdn.ucom.am/s57/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Салям (Уфа) (576p)
+https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Самара 24
+https://vgtrkregion.cdnvideo.ru/vgtrk/samara/regionHD/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Самара ГИС (1080p) [Not 24/7]
+http://45.67.57.9:8080/new/new/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Санкт-Петербург
+https://streamsrv2.tvspb.ru/OTT/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Саратов 24 (1080p) [Not 24/7]
+https://saratov24.tv/online/playlist.php
+
+#EXTINF:-1,"group-title="Rus Kanalları",Своё HD
+http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Север (Нарьян-Мар) (1080p)
+https://live2.mediacdn.ru/sr1/sever/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Селенга ТВ (576p)
+http://90.188.37.86/live/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Сибирь 24 (Красноярск)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Сибирь 24 (Новосибирск)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",СК1 Житомир
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Смотрим Мелодрамы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Смотрим Тайны
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Смотрим Частный Детектив
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Совершенно Секретно
+https://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Солнце
+http://tv.mediacdn.ru/live/disney/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Соловьев LIVE
+https://player.smotrim.ru/iframe/stream/live_id/63338
+
+#EXTINF:-1,"group-title="Rus Kanalları",Союз (576p)
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Спас
+https://streaming.televizor-24-tochka.ru/live/15.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Старт (1080p) [Geo-blocked]
+https://strm.yandex.ru/kal/start/start0.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",СТБ (720p)
+https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",СТРК (720p) [Not 24/7]
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",СТС
+http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",СТС Kids
+http://stream02.vnet.am/DisneyChannel/mono.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",СТС Love
+http://streaming.tv-teleport.ru/STS_Love/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Суббота! (450p) [Geo-blocked]
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",СургутИнформТВ
+https://sitv.ru/vgtrk/stv.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Сфера ТВ
+http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Таврия
+https://streaming.televizor-24-tochka.ru/live/24.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Тамыр (Уфа) (576p)
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",ТВ3
+http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",ТВА (Чернiвцi) (576p)
+http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",ТВК 24 (576p)
+https://air.tvk6.ru/tvk24/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Твое ТВ Юмор
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",ТВЦ
+https://edge02.odtv.az/o2/tvc/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Телеканал Краснодар
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Телекафе
+http://stream01.vnet.am/Telekafe/mono.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Телплюс ТВ (Астрахань) (360p) [Not 24/7]
+https://streaming.astrakhan.ru/telplushd/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Тернопіль 1 (720p)
+https://ott.columbus.te.ua/ternopil1/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",ТК Алмазный край (576p)
+https://stream.almaz-media.tv:8080/hls/576.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",ТКР (Рязань) (1080p) [Not 24/7]
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",ТНВ-Планета (Казань)
+https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",ТНР
+https://streaming.televizor-24-tochka.ru/live/26.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",ТНТ
+http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",ТНТ4
+https://edge02.odtv.az/o7/tnt4/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Толк
+https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Толк HD
+http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Точка ТВ
+https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",ТРК Юнион
+https://streaming.televizor-24-tochka.ru/live/27.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Тюменское время
+https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Тюсо (720p)
+https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Урал 24 (Челябинск)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia1-hd/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",УТРК (480p) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-UTRK/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",УТРК Ала-Тоо 24 (480p) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-Ala-too/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",УТРК Баластан (480p) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",УТРК Маданият (480p) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-Madaniyat/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",УТРК Музыка (480p) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Феникс+Кино
+http://82.209.197.187:8080/udp/239.0.100.101:1234
+
+#EXTINF:-1,"group-title="Rus Kanalları",Хузур ТВ (1080p) [Not 24/7]
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Центр (Красноярск)
+https://stream.tck.tv/hd.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Че!
+https://edge02.odtv.az/o5/chetv/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Щёлковское ТВ (576p) [Not 24/7]
+http://stream0.tv41.ru/live.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Ю
+https://edge02.odtv.az/o3/utv/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Ювелирочка ТВ (576p)
+https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Югра
+https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Kino 24
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Viju TV1000
+http://82.209.197.187:8080/udp/239.0.100.141:1234
+
+#EXTINF:-1,"group-title="Rus Kanalları",Viju TV1000 Action
+https://woobl.ru/hls987/TV1000_action_hd.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",viju Русское кино
+http://82.209.197.187:8080/udp/239.0.100.82:1234
+
+#EXTINF:-1,"group-title="Rus Kanalları",Viju+ Serial
+https://woobl.ru/hls987/Viju_plus_Serial_hd.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Viju+ Sport
+https://edge02.odtv.az/o7/viasatsport/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",7 TV
+http://v4.proofix.ru/7tv-live/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",9 Волна (Черкесск)
+http://cdn-01.bonus-tv.ru/9volna/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",12 канал
+https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",43 канал (Туапсе) (720p)
+http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",49 канал (Новосибирск)
+https://49channel.mediacdn.ru/live/cdn/49channel/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",312 Кино (406p)
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",312 ТВ (406p)
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",360°
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",360° Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",#КТОКУДА
+http://camera.global-x.ru/MirUvlecheniy/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",A21 Network | Russian Motorsport Television
+https://autopilot.catcast.tv/content/37909/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Amedia 1
+http://streaming.tv-teleport.ru/A1/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Amedia 2
+http://streaming.tv-teleport.ru/A2/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Ani
+http://streaming.tv-teleport.ru/Ani/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Arirang
+https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Atameken Business (1080p) [Not 24/7]
+http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Baby Time (576p) [Geo-blocked]
+https://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",BackusTV Dark (720p) [Not 24/7]
+http://stream.backustv.ru/content/39864/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",BackusTV Music (720p) [Not 24/7]
+http://stream.backustv.ru/live/btv3/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",BackusTV Original (720p) [Not 24/7]
+http://stream.backustv.ru/live/btv/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Bridge
+http://streaming.tv-teleport.ru/Bridge_TV/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Bridge Classic (1080p) [Geo-blocked]
+https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Bridge Deluxe (1080p) [Geo-blocked]
+https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Bridge Hits (1080p) [Geo-blocked]
+https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Bridge Rock (1080p) [Geo-blocked]
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Bridge Русский хит (1080p) [Geo-blocked]
+https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Bridge Шлягер (1080p) [Geo-blocked]
+https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",CGTN Русский (576p)
+https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",DanceHits80
+http://dancehits80.denvs.ru:8080/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Fox Life
+https://woobl.ru/hls987/Fox_Life.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Leomax 24 (1080p)
+https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Multimania (Latvia) (576p)
+https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Music Box Gold (576p) [Geo-blocked]
+https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Nickelodeon
+http://streaming.tv-teleport.ru/Nickelodeon/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Ocean TV
+http://camera.global-x.ru/OceanTV/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Pingviin (576p)
+https://void.greenhosting.ru/PingviinEE_Mpeg4/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Pro100TV
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",RTG (1080p) [Geo-blocked]
+https://strm.yandex.ru/kal/rtg/rtg0.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",RU TV
+https://edge02.odtv.az/o7/rutv/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Russia Today
+http://stream.flynetwifi.com:1935/live/mobile-009/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Russian Music Box (1080p) [Geo-blocked]
+https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",SONGTV Russia (720p)
+https://songtv.hls.iptvdc.com/web-russia/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",TV BRICS Russian
+https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",TV Maná Russkiy (1080p)
+https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",TVM Channel
+https://cdn-01.bonus-tv.ru/tvm_edge/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",UDAR (1080p) [Geo-blocked]
+https://strm.yandex.ru/kal/udar/udar0.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Ukraine World News (1440p) [Not 24/7]
+https://ythls.armelin.one/channel/UCGRhTiknVzrL-Rfy4N1tPTA.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Univer TV (1080p)
+https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",VIVA Russia (1080p)
+https://rpn3.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Zooпарк
+https://woobl.ru/hls987/Zoopark.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Аист ТВ
+http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Архыз 24 (1080p)
+https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Беларусь 2 (1080p)
+https://edge60.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Беларусь 3 (1080p) [Not 24/7]
+https://edge60.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Беларусь 5 (1080p) [Not 24/7]
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Беларусь 24 (1080p)
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Белгород 24 (1080p)
+https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",БелМузТВ
+http://178.124.179.122:8088/BelMuzTV/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Каббала ТВ
+http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Астрахань.Ru TV
+http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v3a1/index.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Башкортостан 24 HD
+http://live.gtrk.tv/hls/b24-hls.m3u8
+
+#EXTINF:-1,"group-title="Rus Kanalları",Мужское кино
+https://woobl.ru/hls987/Muzhskoe_kino_hd.m3u8
+
+
